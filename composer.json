@@ -1,5 +1,5 @@
 {
-    "name": "evenement/evenement",
+    "name": "valzargaming/evenement",
     "description": "Événement is a very simple event dispatching library for PHP",
     "keywords": ["event-dispatcher", "event-emitter"],
     "license": "MIT",
@@ -7,10 +7,14 @@
         {
             "name": "Igor Wiedler",
             "email": "igor@wiedler.ch"
+        },
+        {
+            "name": "Valithor Obsidion",
+            "email": "valithor@valzargaming.com"
         }
     ],
     "require": {
-        "php": ">=7.0"
+        "php": ">=8.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9 || ^6"
